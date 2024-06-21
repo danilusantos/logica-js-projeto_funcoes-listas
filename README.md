@@ -5,3 +5,7 @@ Esse curso foi realizado como parte da trilha criada no programa de formação A
 ## Informação Técnica
 
 Nesse curso foi usado um template web (HTML, CSS e JS), mas a lógica de programação foi apurada usando apenas o javascript, para a criação de um pequeno jogo de adivinhação com números aleatórios e integração com a biblioteca Responsive Voice, consolidando mais os conceitos com funções, listas etc.
+
+<br><br>
+Link para o projeto online:<br>
+[Projeto Lógica - Funções e Listas](https://logica-js-projeto-funcoes-listas.vercel.app/)
